@@ -8,7 +8,7 @@
 ## 使用說明
 該工具可依據自行找到的背景、字體，並設定要產生的字串，生成包含文字的圖片。
 * 字體檔案放在 `\OCR_Image_Generator\fonts\chinse_jian\`  資料夾底下。
-![](https://i.imgur.com/rXOqv6H.png =600x300)
+![](https://i.imgur.com/rXOqv6H.png)
 
 
 * 背景圖放在`\OCR_image_Generator\background\` 資料夾底下。
@@ -67,7 +67,7 @@
 使用Colab : **OCR_Generate.ipynb** :  <a href="https://colab.research.google.com/drive/139BK2WuNYQGjGJ3l1VPhaFbMKz3I9tFI" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 DEMO GIF :
-![](https://i.imgur.com/uHLujW4.gif)
+![GenerateOCRImageDemo](https://user-images.githubusercontent.com/85674554/135797890-186d6aa5-e08c-4a17-9a02-42482166fbc6.gif)
 
 
 
