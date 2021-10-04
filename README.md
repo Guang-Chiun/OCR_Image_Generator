@@ -64,7 +64,7 @@
 
 
 ## 生成資料Demo
-使用Colab : **OCR_Generate.ipynb** :  <a href="https://colab.research.google.com/drive/139BK2WuNYQGjGJ3l1VPhaFbMKz3I9tFI" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+使用Colab : **OCR_Generate.ipynb** :  <a href="https://colab.research.google.com/drive/139BK2WuNYQGjGJ3l1VPhaFbMKz3I9tFI?usp=sharing" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 DEMO GIF :
 ![GenerateOCRImageDemo](https://user-images.githubusercontent.com/85674554/135797890-186d6aa5-e08c-4a17-9a02-42482166fbc6.gif)
